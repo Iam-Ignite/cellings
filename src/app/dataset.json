@@ -1,0 +1,408 @@
+[
+  {
+    "system": {
+      "reference": "C100016 MR1 (EN)",
+      "family": "GypCeiling MF",
+      "description": "GypCeiling MF suspended ceiling fixed to 150mm thick lightweight concrete joist floor (90kg/m²) to give a 240mm cavity and lined with one layer of Gyproc Moisture Resistant 12.5mm.",
+      "image": "https://www.british-gypsum.com/sites/mac3.british-gypsum.com/files/styles/card_small/public/externals/fd1fffea2c065482c738de253351e578.jpg.webp?itok=-PmmDYIY",
+      "dates": {
+        "last_reviewed": "13.03.2023",
+        "last_updated": "05.06.2024"
+      },
+      "performance": {
+        "sound_insulation": {
+          "airborne_rw": 56,
+          "airborne_rw_ctr": 50,
+          "impact_lnw": 68,
+          "unit": "dB"
+        }
+      },
+      "details": {
+        "framework_fixing": "Ceiling sections fixed to primary framework using wafer head screws or clips.",
+        "finishing_requirements": {
+          "products": [
+            "Thistle plasters",
+            "ThistlePro plasters",
+            "Gyproc jointing products"
+          ],
+          "note": "For further guidance on skimming moisture resistant grade boards see the White Book - Finishes section"
+        },
+        "loadbearing": false,
+        "max_ceiling_load": "30 kg/m²",
+        "other_requirements": {
+          "SpecSure_warranty": {
+            "description": "Confirms that British Gypsum proprietary systems will perform as specified for the lifetime of the building",
+            "requirements": "All components must be specified in full and constructed in accordance with British Gypsum's installation guidance"
+          },
+          "design_note": "Always check with the design team before making any changes to the chosen specification"
+        },
+        "perimeter_framing": {
+          "description": "Perimeter channel suitably fixed to background",
+          "centres": "600mm"
+        },
+        "screw_requirements": {
+          "centres": "Maximum 230mm (reduced to 150mm at board ends and perimeters)",
+          "positioning": "Not less than 13mm from cut edges and 10mm from bound edges",
+          "installation": "Fix working from the centre of each board, set screw heads flush without breaking paper or gypsum core"
+        },
+        "sealant": {
+          "application": "Locate at junctions with adjoining structure and other air paths",
+          "method": "Apply as a continuous bead to clean, dry, dust-free surfaces"
+        },
+        "structural_background": "150mm thick Beam & Block Floor (90kg/m²)",
+        "approx_weight": "9 kg/m²",
+        "cavity_dimensions": {
+          "maximum": 5600,
+          "minimum": 240,
+          "unit": "mm"
+        },
+        "framework_spacing": {
+          "primary": 1200,
+          "secondary": 450,
+          "unit": "mm"
+        },
+        "suspension": {
+          "type": {
+            "preferred": "Steel angle section (when plaster finish is specified)",
+            "alternative": "Strap hanger",
+            "max_lengths": {
+              "steel_angle": 5600,
+              "strap_hanger": 1000,
+              "unit": "mm"
+            }
+          },
+          "centres": 1200,
+          "unit": "mm"
+        }
+      },
+      "certifications": [
+        {
+          "name": "SpecSure® System Warranty",
+          "link": "/technical-support/specsure-system-warranty",
+          "logo": "/sites/mac3.british-gypsum.com/files/styles/certificate_icon/public/dam_assets/British-Gypsum-Certification-SpecSure.jpg.webp?itok=34_w2UuO"
+        },
+        {
+          "name": "CCPI System Verification No. 001270018/1025",
+          "description": "Non-loadbearing ceiling membrane systems",
+          "link": "https://www.cpicode.org.uk/what-do-each-of-the-ccpi-marks-mean/#assessed-product",
+          "logo": "/sites/mac3.british-gypsum.com/files/styles/certificate_icon/public/dam_assets/British-Gypsum-CCPI-System-Verification-001270018-1025-c_1.jpg.webp?itok=xw0JiDpP"
+        }
+      ],
+      "resources": {
+        "download": "https://www.british-gypsum.com/system/content/export/83431",
+        "share_options": ["Email", "Facebook", "Twitter", "LinkedIn", "Print"],
+        "bookmark": {
+          "available": true,
+          "link": "/user/login?flag=my_favourites"
+        },
+        "add_to_project": "/add-to-project/open-modal-form/83431"
+      }
+    }
+  },
+  {
+    "system": {
+      "reference": "C100017 (EN)",
+      "family": "GypCeiling MF",
+      "description": "GypCeiling MF suspended ceiling fixed to 150mm thick lightweight concrete joist floor (90kg/m²) to give a 240mm cavity and lined with two layers of Gyproc WallBoard 12.5mm.",
+      "image": "https://www.british-gypsum.com/sites/mac3.british-gypsum.com/files/styles/card_small/public/externals/76f2cc2ea5de4e226cac678073dc4742.jpg.webp?itok=8CNqGWJE",
+      "dates": {
+        "last_reviewed": "22.09.2021",
+        "last_updated": "05.06.2024"
+      },
+      "performance": {
+        "sound_insulation": {
+          "airborne_rw": 58,
+          "airborne_rw_ctr": 51,
+          "impact_lnw": 66,
+          "unit": "dB"
+        }
+      },
+      "details": {
+        "framework_fixing": "Ceiling sections fixed to primary framework using wafer head screws or clips.",
+        "finishing_requirements": {
+          "products": [
+            "Thistle plasters",
+            "ThistlePro plasters",
+            "Gyproc jointing products"
+          ],
+          "note": "See product range guides on British Gypsum website for more information"
+        },
+        "loadbearing": false,
+        "max_ceiling_load": "30 kg/m²",
+        "other_requirements": {
+          "SpecSure_warranty": {
+            "description": "Confirms that British Gypsum proprietary systems will perform as specified for the lifetime of the building",
+            "requirements": "All components must be specified in full and constructed in accordance with British Gypsum's installation guidance"
+          },
+          "design_note": "Always check with the design team before making any changes to the chosen specification"
+        },
+        "perimeter_framing": {
+          "description": "Perimeter channel suitably fixed to background",
+          "centres": "600mm"
+        },
+        "screw_requirements": {
+          "centres": "Maximum 230mm (reduced to 150mm at board ends and perimeters)",
+          "positioning": "Not less than 13mm from cut edges and 10mm from bound edges",
+          "installation": "Fix working from the centre of each board, set screw heads flush without breaking paper or gypsum core",
+          "joints": "All joints staggered between layers"
+        },
+        "sealant": {
+          "application": "Locate at junctions with adjoining structure and other air paths",
+          "method": "Apply as a continuous bead to clean, dry, dust-free surfaces"
+        },
+        "structural_background": "150mm thick Beam & Block Floor (90kg/m²)",
+        "approx_weight": "18 kg/m²",
+        "cavity_dimensions": {
+          "maximum": 5600,
+          "minimum": 240,
+          "unit": "mm"
+        },
+        "framework_spacing": {
+          "primary": 1200,
+          "secondary": 450,
+          "unit": "mm"
+        },
+        "suspension": {
+          "type": {
+            "preferred": "Steel angle section (when plaster finish is specified)",
+            "alternative": "Strap hanger",
+            "max_lengths": {
+              "steel_angle": 5600,
+              "strap_hanger": 1000,
+              "unit": "mm"
+            }
+          },
+          "centres": 1200,
+          "unit": "mm"
+        }
+      },
+      "certifications": [
+        {
+          "name": "SpecSure® System Warranty",
+          "link": "/technical-support/specsure-system-warranty",
+          "logo": "/sites/mac3.british-gypsum.com/files/styles/certificate_icon/public/dam_assets/British-Gypsum-Certification-SpecSure.jpg.webp?itok=34_w2UuO"
+        },
+        {
+          "name": "CCPI System Verification No. 001270018/1025",
+          "description": "Non-loadbearing ceiling membrane systems",
+          "link": "https://www.cpicode.org.uk/what-do-each-of-the-ccpi-marks-mean/#assessed-product",
+          "logo": "/sites/mac3.british-gypsum.com/files/styles/certificate_icon/public/dam_assets/British-Gypsum-CCPI-System-Verification-001270018-1025-c_1.jpg.webp?itok=xw0JiDpP"
+        }
+      ],
+      "resources": {
+        "download": "https://www.british-gypsum.com/system/content/export/12721",
+        "share_options": ["Email", "Facebook", "Twitter", "LinkedIn", "Print"],
+        "bookmark": {
+          "available": true,
+          "link": "/user/login?flag=my_favourites"
+        },
+        "add_to_project": "/add-to-project/open-modal-form/12721"
+      }
+    }
+  },
+  {
+    "system": {
+      "reference": "C100017 MR1 (EN)",
+      "family": "GypCeiling MF",
+      "description": "GypCeiling MF suspended ceiling fixed to 150mm thick lightweight concrete joist floor (90kg/m²) to give a 240mm cavity and lined with an inner layer of Gyproc WallBoard 12.5mm and an outer layer of Gyproc Moisture Resistant 12.5mm.",
+      "image": "https://www.british-gypsum.com/sites/mac3.british-gypsum.com/files/styles/card_small/public/externals/ea70ad14a897b8d0c9b1877c90e6bf5c.jpg.webp?itok=H-xBGTwS",
+      "dates": {
+        "last_reviewed": "13.03.2023",
+        "last_updated": "05.06.2024"
+      },
+      "performance": {
+        "sound_insulation": {
+          "airborne_rw": 58,
+          "airborne_rw_ctr": 51,
+          "impact_lnw": 66,
+          "unit": "dB"
+        }
+      },
+      "details": {
+        "framework_fixing": "Ceiling sections fixed to primary framework using wafer head screws or clips.",
+        "finishing_requirements": {
+          "products": [
+            "Thistle plasters",
+            "ThistlePro plasters",
+            "Gyproc jointing products"
+          ],
+          "note": "For further guidance on skimming moisture resistant grade boards see the White Book - Finishes section"
+        },
+        "loadbearing": false,
+        "max_ceiling_load": "30 kg/m²",
+        "other_requirements": {
+          "SpecSure_warranty": {
+            "description": "Confirms that British Gypsum proprietary systems will perform as specified for the lifetime of the building",
+            "requirements": "All components must be specified in full and constructed in accordance with British Gypsum's installation guidance"
+          },
+          "design_note": "Always check with the design team before making any changes to the chosen specification"
+        },
+        "perimeter_framing": {
+          "description": "Perimeter channel suitably fixed to background",
+          "centres": "600mm"
+        },
+        "screw_requirements": {
+          "centres": "Maximum 230mm (reduced to 150mm at board ends and perimeters)",
+          "positioning": "Not less than 13mm from cut edges and 10mm from bound edges",
+          "installation": "Fix working from the centre of each board, set screw heads flush without breaking paper or gypsum core",
+          "joints": "All joints staggered between layers"
+        },
+        "sealant": {
+          "application": "Locate at junctions with adjoining structure and other air paths",
+          "method": "Apply as a continuous bead to clean, dry, dust-free surfaces"
+        },
+        "structural_background": "150mm thick Beam & Block Floor (90kg/m²)",
+        "approx_weight": "18 kg/m²",
+        "cavity_dimensions": {
+          "maximum": 5600,
+          "minimum": 240,
+          "unit": "mm"
+        },
+        "framework_spacing": {
+          "primary": 1200,
+          "secondary": 450,
+          "unit": "mm"
+        },
+        "suspension": {
+          "type": {
+            "preferred": "Steel angle section (when plaster finish is specified)",
+            "alternative": "Strap hanger",
+            "max_lengths": {
+              "steel_angle": 5600,
+              "strap_hanger": 1000,
+              "unit": "mm"
+            }
+          },
+          "centres": 1200,
+          "unit": "mm"
+        }
+      },
+      "certifications": [
+        {
+          "name": "SpecSure® System Warranty",
+          "link": "/technical-support/specsure-system-warranty",
+          "logo": "/sites/mac3.british-gypsum.com/files/styles/certificate_icon/public/dam_assets/British-Gypsum-Certification-SpecSure.jpg.webp?itok=34_w2UuO"
+        },
+        {
+          "name": "CCPI System Verification No. 001270018/1025",
+          "description": "Non-loadbearing ceiling membrane systems",
+          "link": "https://www.cpicode.org.uk/what-do-each-of-the-ccpi-marks-mean/#assessed-product",
+          "logo": "/sites/mac3.british-gypsum.com/files/styles/certificate_icon/public/dam_assets/British-Gypsum-CCPI-System-Verification-001270018-1025-c_1.jpg.webp?itok=xw0JiDpP"
+        }
+      ],
+      "resources": {
+        "download": "https://www.british-gypsum.com/system/content/export/83436",
+        "share_options": ["Email", "Facebook", "Twitter", "LinkedIn", "Print"],
+        "bookmark": {
+          "available": true,
+          "link": "/user/login?flag=my_favourites"
+        },
+        "add_to_project": "/add-to-project/open-modal-form/83436"
+      }
+    }
+  },
+  {
+    "system": {
+      "reference": "C100018 (EN)",
+      "family": "GypCeiling MF",
+      "description": "GypCeiling MF suspended ceiling fixed to 150mm thick lightweight concrete joist floor (90kg/m²) to give a 240mm cavity and lined with one layer of Gyproc SoundBloc 12.5mm with 100mm Isover Spacesaver Ready-Cut in the cavity.",
+      "image":"https://www.british-gypsum.com/sites/mac3.british-gypsum.com/files/styles/card_small/public/externals/ea70ad14a897b8d0c9b1877c90e6bf5c.jpg.webp?itok=H-xBGTwS",
+      "dates": {
+        "last_reviewed": "22.09.2021",
+        "last_updated": "05.06.2024"
+      },
+      "performance": {
+        "sound_insulation": {
+          "airborne_rw": 61,
+          "airborne_rw_ctr": 51,
+          "impact_lnw": 60,
+          "unit": "dB"
+        }
+      },
+      "details": {
+        "framework_fixing": "Ceiling sections fixed to primary framework using wafer head screws or clips.",
+        "finishing_requirements": {
+          "products": [
+            "Thistle plasters",
+            "ThistlePro plasters",
+            "Gyproc jointing products"
+          ],
+          "note": "See product range guides on British Gypsum website for more information"
+        },
+        "loadbearing": false,
+        "max_ceiling_load": "30 kg/m²",
+        "other_requirements": {
+          "SpecSure_warranty": {
+            "description": "Confirms that British Gypsum proprietary systems will perform as specified for the lifetime of the building",
+            "requirements": "All components must be specified in full and constructed in accordance with British Gypsum's installation guidance"
+          },
+          "design_note": "Always check with the design team before making any changes to the chosen specification"
+        },
+        "perimeter_framing": {
+          "description": "Perimeter channel suitably fixed to background",
+          "centres": "600mm"
+        },
+        "screw_requirements": {
+          "centres": "Maximum 230mm (reduced to 150mm at board ends and perimeters)",
+          "positioning": "Not less than 13mm from cut edges and 10mm from bound edges",
+          "installation": "Fix working from the centre of each board, set screw heads flush without breaking paper or gypsum core"
+        },
+        "sealant": {
+          "application": "Locate at junctions with adjoining structure and other air paths",
+          "method": "Apply as a continuous bead to clean, dry, dust-free surfaces"
+        },
+        "structural_background": "150mm thick Beam & Block Floor (90kg/m²)",
+        "approx_weight": "12 kg/m²",
+        "cavity_dimensions": {
+          "maximum": 5600,
+          "minimum": 240,
+          "unit": "mm"
+        },
+        "framework_spacing": {
+          "primary": 1200,
+          "secondary": 450,
+          "unit": "mm"
+        },
+        "suspension": {
+          "type": {
+            "preferred": "Steel angle section (when plaster finish is specified)",
+            "alternative": "Strap hanger",
+            "max_lengths": {
+              "steel_angle": 5600,
+              "strap_hanger": 1000,
+              "unit": "mm"
+            }
+          },
+          "centres": 1200,
+          "unit": "mm"
+        },
+        "insulation": {
+          "type": "100mm Isover Spacesaver Ready-Cut",
+          "location": "In cavity"
+        }
+      },
+      "certifications": [
+        {
+          "name": "SpecSure® System Warranty",
+          "link": "/technical-support/specsure-system-warranty",
+          "logo": "/sites/mac3.british-gypsum.com/files/styles/certificate_icon/public/dam_assets/British-Gypsum-Certification-SpecSure.jpg.webp?itok=34_w2UuO"
+        },
+        {
+          "name": "CCPI System Verification No. 001270018/1025",
+          "description": "Non-loadbearing ceiling membrane systems",
+          "link": "https://www.cpicode.org.uk/what-do-each-of-the-ccpi-marks-mean/#assessed-product",
+          "logo": "/sites/mac3.british-gypsum.com/files/styles/certificate_icon/public/dam_assets/British-Gypsum-CCPI-System-Verification-001270018-1025-c_1.jpg.webp?itok=xw0JiDpP"
+        }
+      ],
+      "resources": {
+        "download": "https://www.british-gypsum.com/system/content/export/12726",
+        "share_options": ["Email", "Facebook", "Twitter", "LinkedIn", "Print"],
+        "bookmark": {
+          "available": true,
+          "link": "/user/login?flag=my_favourites"
+        },
+        "add_to_project": "/add-to-project/open-modal-form/12726"
+      }
+    }
+  }
+]
