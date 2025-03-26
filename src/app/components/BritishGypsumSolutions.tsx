@@ -161,35 +161,35 @@ const CeilingSolutionsList = ({ systems }: any) => {
     <div className="bg-white ">
       {/* ... (previous render code remains the same) */}
       <div className="text-center mt-24">
-        <h1 className=" font-bold text-gray-900 mb-4 bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-600">
+        <h1 className=" font-bold text-gray-900 md:text-4xl text-2xl mb-4 bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-600">
           Ceiling Solutions
         </h1>
-        <div className="flex justify-center mb-6 space-x-4">
+        <div className="flex justify-center mb-6 space-x-4 mx-5">
+          {comparedSystems.length > 0 && (
+            <>
               <button
                 onClick={exportToExcel}
-                className="flex items-center gap-2 bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition-colors"
+                className="flex items-center gap-2 bg-green-600 text-sm md:text-xl text-white px-4 py-2 rounded-lg hover:bg-green-700 transition-colors"
               >
                 <FileSpreadsheet className="w-5 h-5" />
                 Export Comparison
               </button>
-          {comparedSystems.length > 0 && (
-            <>
               <button
                 onClick={openCompareModal}
-                className="flex items-center gap-2 bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors"
+                className="flex items-center gap-2 bg-blue-600 text-sm md:text-xl text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors"
               >
                 <ArrowRight className="w-5 h-5" />
                 Compare {comparedSystems.length} Systems
               </button>
-            </>
-          )}
               <button
                 onClick={exportToPowerBIHandler}
-                className="flex items-center gap-2 bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors"
+                className="flex items-center gap-2 bg-blue-600 text-sm md:text-xl text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors"
               >
                 <FileSpreadsheet className="w-5 h-5" />
                 Export for Power BI
               </button>
+            </>
+          )}
         </div>
 
         {/* Compare Modal */}
@@ -288,7 +288,7 @@ const CeilingSolutionsList = ({ systems }: any) => {
         )}
       </div>
 
-      <div className="grid gap-6 md:grid-cols-4 m-8 p-16">
+      <div className="grid gap-6 md:grid-cols-4 m-8 md:p-16">
         {systems.map((system: any) => (
           <div
             key={system.reference}
